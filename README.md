@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="assets/banner.png" alt="Cyber Incident Response Plan Banner" width="800"/>
+</p>
+
 # 🛡️ Cyber Incident Response Plan (CIRP) – Internee.pk  
 
 A comprehensive **Cyber Incident Response Plan (CIRP)** developed for **Internee.pk**, designed to detect, contain, and recover from cyber incidents.  
