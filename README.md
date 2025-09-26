@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" alt="Cyber Incident Response Plan Banner" width="800"/>
+  <img src="Assets/banner.png" alt="Cyber Incident Response Plan Banner" width="800"/>
 </p>
 
 # 🛡️ Cyber Incident Response Plan (CIRP) – Internee.pk  
